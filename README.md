@@ -13,7 +13,6 @@ _______________________________________________________________________________
 #### A. Optional tasks (individual): 
 The following problems should be solved using HashMap/HashSet from the Java library.
 
-
 **Problem 1.** 
    Given an array A of integers, and an integer X, find how many pairs of 
    elements of A sum to X:
@@ -24,6 +23,8 @@ The following problems should be solved using HashMap/HashSet from the Java libr
       // If A = {3,3,4,5,3,5} then howMany(A,8) returns 6
    }
 ```
+**Solution:** [HowMany.java](https://github.com/rahul1947/SP06-Applications-of-Hashing/blob/master/HowMany.java)
+
 
 **Problem 2.**
    Given an array A, return an array B that has those elements of A that
@@ -34,6 +35,8 @@ The following problems should be solved using HashMap/HashSet from the Java libr
       // Ex: A = {6,3,4,5,3,5}.  exactlyOnce(A) returns {6,4}
    }
 ```
+**Solution:** [ExactlyOnce.java](https://github.com/rahul1947/SP06-Applications-of-Hashing/blob/master/ExactlyOnce.java)
+
 
 **Problem 3.** 
    Given an array A of integers, find the length of a longest streak of
@@ -45,3 +48,4 @@ The following problems should be solved using HashMap/HashSet from the Java libr
       // that occur somewhere in A.
    }
 ```
+**Solution:** [LongestStreak.java](https://github.com/rahul1947/SP06-Applications-of-Hashing/blob/master/LongestStreak.java)
