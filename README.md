@@ -32,7 +32,7 @@ The following problems should be solved using HashMap/HashSet from the Java libr
 ```
    static<T extends Comparable<? super T>> T[] exactlyOnce(T[] A) { 
       // RT = O(n), expected.
-      // Ex: A = {6,3,4,5,3,5}.  exactlyOnce(A) returns {6,4}
+      // Ex: A = {6,3,4,5,3,5}.  exactlyOnce(A) returns {6,4} 
    }
 ```
 **Solution:** [ExactlyOnce.java](https://github.com/rahul1947/SP06-Applications-of-Hashing/blob/master/ExactlyOnce.java)
